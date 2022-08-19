@@ -1,0 +1,11 @@
+# bundle title
+title: "Align horizontally"
+
+# bundle tooltip
+tooltip: This script will align the selected tags or spot elevation marker horizontally. The picked object is used as position reference. Tested on Revit API 2020, 2021.1
+
+context:
+ - selection
+ 
+# bundle author
+author: ejs

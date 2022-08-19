@@ -1,0 +1,12 @@
+# bundle title
+title: "Align vertically"
+
+# bundle tooltip
+tooltip: This script will align the selected tags or spot elevation markers vertically. The picked object is used as position reference. Tested on Revit API 2020, 2021.1
+
+
+# bundle author
+author: ejs
+
+context:
+ - selection

@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "py-ejs",
+    "description": "Set of custom tools.",
+    "author": "ejs",
+    "author_profile": "https://www.linkedin.com/in/ejs-ejs",
+    "url": "https://github.com/ejs-ejs/py-ejs.git",
+    "website": "",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
