@@ -1,1 +1,4 @@
-context: Viewports
+context: 
+  - any:
+    - Viewports
+    - OST_ScheduleGraphics

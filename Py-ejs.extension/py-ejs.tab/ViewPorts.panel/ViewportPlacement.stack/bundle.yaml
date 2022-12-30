@@ -1,7 +1,6 @@
 title: "Viewport tools"
 
 layout:
-  - CopyVP[title:Copy viewport position]
-  - PasteVP[title:Restore viewport position]
+  - CopyVP[title:Copy viewport/schedule position]
+  - PasteVP[title:Apply copied viewport/schedule position]
   - BatchPasteVP[title:Batch restore\n viewport position]
-

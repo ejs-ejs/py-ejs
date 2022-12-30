@@ -1,0 +1,6 @@
+title: "Schedule tools"
+
+layout:   
+  - CopySCH[title:Copy schedule's\n grid and field titles]
+  - PasteSCH[title:Apply copied grid\n and field titles of the schedule]
+
